@@ -1,17 +1,15 @@
-{
-    "mosque": [
-        {
-            "id": 1,
-            "Name": "Toyota Mosque",
-            "Prefecture": "Aichi",
-            "Address": "28-1 Aoki, Tsutsumi-cho, Toyota-shi, Postal Code : 473-0932",
-            "E-Mail": "info@toyotamasjid.org",
-            "Website": "www.toyotamasjid.org",
-            "Photo": "http://www.toyotamasjid.org/img/prayer5.JPG",
-            "Location": {
-                "Latitude": 35.047849,
-                "Longitude": 137.095984
-            }
+[
+    {
+        "id": 1,
+        "Name": "Toyota Mosque",
+        "Prefecture": "Aichi",
+        "Address": "28-1 Aoki, Tsutsumi-cho, Toyota-shi, Postal Code : 473-0932",
+        "E-Mail": "info@toyotamasjid.org",
+        "Website": "www.toyotamasjid.org",
+        "Photo": "http://www.toyotamasjid.org/img/prayer5.JPG",
+        "Location": {
+            "Latitude": 35.047849,
+            "Longitude": 137.095984
         }
-    ]
-}
+    }
+]
